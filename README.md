@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arjun-K-Varkey
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning microservices
-- 💞️ I’m looking to collaborate on AI,Data Analytics etc.
+- 💞️ I’m looking to collaborate on AI,Data Analytics & Cybersecurity etc.
 - 📫 How to reach me https://www.linkedin.com/in/arjun-varkey-8b6189ab/
 
 <!---
